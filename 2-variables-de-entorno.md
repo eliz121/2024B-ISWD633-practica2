@@ -22,6 +22,7 @@ docker run -d --name mysql-container -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABA
 ```
 docker ps
 ```
+
 ![Contenedor](contenedorEj.png)
 
 ### Identificar el problema
