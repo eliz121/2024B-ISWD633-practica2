@@ -48,12 +48,20 @@ docker network ls
 
 ![Imagen](img/esquema-ejercicio-redes.PNG)
 
-# COLOCAR UNA CAPTURA DE LAS REDES EXISTENTES CREADAS
+## Redes existentes
+```
+docker network ls
+```
+![Imagen](img/redes.png)
 
-# COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
+## Contenedores vinculados
+### Net-curso01
+![Imagen](img/net1.png)
+
+### Net-curso02
+![Imagen](img/net2.png)
 
 ### Para eliminar las redes creadas
 ```
 docker network rm <nombre de la red>
 ```
-
