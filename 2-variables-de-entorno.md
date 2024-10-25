@@ -23,7 +23,7 @@ docker run -d --name mysql-container -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABA
 docker ps
 ```
 
-![Contenedor](contenedorEj.png)
+![Contenedor](img/contenedorEj.png)
 
 ### Identificar el problema
 ```
@@ -56,7 +56,7 @@ docker run -d --name mysql --env-file="C:\Users\User\Downloads\mysql.env" -P mys
 ```
 
 ## Comprobación de variables de entorno
-![Imagen](mysql.png)
+![Imagen](img/mysql.png)
 
 ### ¿Qué bases de datos existen en el contenedor creado?
 Existe la base de datos "MySQL".
