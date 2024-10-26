@@ -1,3 +1,2 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+## Mi aprendizaje 
+* Aprendí más sobre la importancia de las variables de entorno para configuración de contenedores o conocer más profundamente sobre los archivos **.env**. Además, comprendí la utilidad de las redes para conectarse de forma versátil entre contenedores. Por otro lado, tuve un poco de conflicto al inicio para configurar contenedores cuando implicó alguna base de datos. Aún así, pude configurar de mejor forma y con mayor facilidad conforme aplicaba los conocimientos ya obtenidos mediante la práctica y distintos ejemplos.
