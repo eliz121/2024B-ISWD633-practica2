@@ -24,6 +24,7 @@ Ingresar desde el navegador al wordpress y finalizar la configuración de instal
 Desde el panel de admin: cambiar el tema y crear una nueva publicación.
 Recordar que a es el puerto que usó para el mapeo con wordpress.
 Ingresar a: http://localhost:9300/ 
+
 ![Imagen](img/entrada.png)
 
 ### Eliminar el contenedor wordpress
